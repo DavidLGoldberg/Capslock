@@ -575,9 +575,8 @@
           },
           "to": [
             {
-              "key_code": "q",
+              "key_code": "",
               "modifiers": [
-                "left_command"
               ]
             }
           ]
@@ -597,9 +596,8 @@
           },
           "to": [
             {
-              "key_code": "w",
+              "key_code": "",
               "modifiers": [
-                "left_command"
               ]
             }
           ]
@@ -639,7 +637,26 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Safari'"
+              "shell_command": "open -a ''"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "a",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "shell_command": "open -a 'atom'"
             }
           ]
         },
@@ -796,10 +813,7 @@
           },
           "to": [
             {
-              "key_code": "c",
-              "modifiers": [
-                "left_control"
-              ]
+              "shell_command": "open -a 'Google Chrome'"
             }
           ]
         },
@@ -1045,7 +1059,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Google Chrome'"
+              "shell_command": "open -a ''"
             }
           ]
         }
