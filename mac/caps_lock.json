@@ -745,7 +745,7 @@
           },
           "to": [
             {
-              "key_code": "f11"
+              "key_code": ""
             }
           ]
         }
@@ -876,10 +876,7 @@
           },
           "to": [
             {
-              "key_code": "d",
-              "modifiers": [
-                "left_control"
-              ]
+              "key_code": "",
             }
           ]
         }
@@ -943,7 +940,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Typora'"
+              "shell_command": "open -a ''"
             }
           ]
         },
@@ -981,7 +978,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Siri'"
+              "shell_command": "open -a ''"
             }
           ]
         },
@@ -1020,7 +1017,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Dash'"
+              "shell_command": "open -a ''"
             }
           ]
         },
@@ -1039,7 +1036,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'IntelliJ IDEA'"
+              "shell_command": "open -a ''"
             }
           ]
         },
@@ -1143,7 +1140,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Launchpad'"
+              "shell_command": "open -a ''"
             }
           ]
         },
